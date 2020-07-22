@@ -25,6 +25,7 @@
 .xbox-controller{
     border: 5px solid whitesmoke;
     width: 220px;
+    height: auto;
     border-radius: 50%;
     float:left;
     margin: 20px;
@@ -38,6 +39,7 @@
 .my-mouse {
     border: 5px solid whitesmoke;
     width: 220px;
+    height: auto;
     display: flex;
     border-radius: 50%;
     position: relative;
