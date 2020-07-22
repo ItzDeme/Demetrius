@@ -19,6 +19,7 @@
 
 .xbox-controller img{
     width: 100%;
+    height: auto;
     float: left;
 }
 .xbox-controller{
@@ -31,6 +32,7 @@
 }
 .my-mouse img{
     width: 100%;
+    height: auto;
     float: left;
 }
 .my-mouse {
