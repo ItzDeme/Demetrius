@@ -1,0 +1,23 @@
+.contact-content{
+    color: #ccc5b9;
+    background: rgb(6,6,6);
+    background: linear-gradient(0deg, rgba(6,6,6,0.6671043417366946) 100%, rgba(255,255,255,1) 100%);
+    border-radius: 5px;
+    min-width: 300px;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+}
+#contact-name, #contact-email, #contact-message {
+    background: none;
+    border: 2px solid #ccc5b9;
+    border-radius: 6px;
+    margin: 10px;
+}
+#contact-button{
+    color: rgb(223, 209, 209);
+    background: none;
+    border: 2px solid #ccc5b9;
+    width: 100px;
+}

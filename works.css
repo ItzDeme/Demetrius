@@ -1,0 +1,18 @@
+.work-content{
+    color: #ccc5b9;
+    background: rgb(6,6,6);
+    background: linear-gradient(0deg, rgba(6,6,6,0.6671043417366946) 100%, rgba(255,255,255,1) 100%);
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+.work-image{
+    width: 250px;
+    height: 250px;
+    overflow: none;
+    transition: transform .5s;
+}

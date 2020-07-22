@@ -1,0 +1,10 @@
+#footer{
+    width: 100%;
+    background: rgb(6,6,6);
+    background: linear-gradient(0deg, rgba(6,6,6,0.6671043417366946) 100%, rgba(255,255,255,1) 100%);
+    text-align: center;
+    justify-content: center;
+    display: block;
+    color: #ccc5b9;
+    font-size: 2vw;
+}

@@ -1,0 +1,59 @@
+.h1-header{
+    color: #ccc5b9;
+    background: rgb(6,6,6);
+    background: linear-gradient(0deg, rgba(6,6,6,0.6671043417366946) 100%, rgba(255,255,255,1) 100%);
+    border-radius: 5px;
+    width: 175px;
+    position: relative;
+}
+.slide-info{
+    color: #ccc5b9;
+    background: rgb(6,6,6);
+    background: linear-gradient(0deg, rgba(6,6,6,0.6671043417366946) 100%, rgba(255,255,255,1) 100%);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    float: left;
+    position: relative;
+}
+
+.xbox-controller img{
+    width: 100%;
+    float: left;
+}
+.xbox-controller{
+    border: 5px solid whitesmoke;
+    width: 220px;
+    border-radius: 50%;
+    float:left;
+    margin: 20px;
+    margin-right: 0;
+}
+.my-mouse img{
+    width: 100%;
+    float: left;
+}
+.my-mouse {
+    border: 5px solid whitesmoke;
+    width: 220px;
+    display: flex;
+    border-radius: 50%;
+    position: relative;
+    float: right;
+    margin: 20px 40px;
+}
+.social-media {
+    width: 50px;
+    overflow: hidden;
+    display: inline-block;
+}
+.social-media img{
+    width: 45px;
+    height: 35px;
+    margin-top: 3px;
+    overflow: hidden;
+    display: inline-block;
+}
+.width-100{
+    width: 100%;
+}
