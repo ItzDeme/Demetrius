@@ -9,15 +9,16 @@
     margin: 5px;
     position: relative;
 }
-#contact-name, #contact-email, #contact-message {
+.contact-name, .contact-email, .contact-message {
     background: none;
+    color: #ccc5b9;
     border: 2px solid #ccc5b9;
     border-radius: 6px;
     margin: 10px;
 }
-#contact-button{
+.contact-button{
     color: rgb(223, 209, 209);
     background: none;
     border: 2px solid #ccc5b9;
-    width: 100px;
+    width: auto;
 }
